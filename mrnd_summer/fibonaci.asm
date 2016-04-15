@@ -1,0 +1,16 @@
+CONST a=0
+CONST b=1
+CONST c=2
+DATA size
+READ FX
+MOV AX,a
+MOV BX,b
+MOV CX,c
+MOV DX,BX
+PRINT AX
+PRINT BX
+
+
+
+
+
